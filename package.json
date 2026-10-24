@@ -1,0 +1,22 @@
+{
+  "name": "financial-xlsx-ingestion-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/financial-xlsx-ingestion: create and inspect a synthetic workbook entirely in memory.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/financial-xlsx-ingestion": "2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/financial-xlsx-ingestion.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/financial-xlsx-ingestion"
+}

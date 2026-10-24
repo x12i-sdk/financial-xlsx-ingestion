@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-xlsx-ingestion",
+  "packageVersion": "2.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-xlsx-ingestion",
+  "usageRepository": "https://github.com/x12i-sdk/financial-xlsx-ingestion",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/xlsx-ingestion",
+  "example": {
+    "title": "Create and inspect a synthetic workbook entirely in memory",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:42.469877+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "2512208ae0fb6341f91f81917016ddd839920a4ba320f406cfe2b34bca5c3616",
+    "manifestSha256": "40625c8326c1380f57e32e0ae278d2ebf52fcfea3883b15a4ea39423bf3451ff"
+  }
+}
